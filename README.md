@@ -17,7 +17,7 @@ in both JavaScript and TypeScript codebases. While in beta, to install the libra
 need to `npm install` directly from the GitHub repository.
 
 ```shell
-$ npm i openai/openai-realtime-api-beta --save
+$ npm i maxpastor/openai-realtime-api-beta --save
 ```
 
 ```javascript
